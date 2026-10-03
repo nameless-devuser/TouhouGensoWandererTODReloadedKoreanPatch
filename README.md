@@ -4,7 +4,7 @@
 
 대사·아이템·스펠카드 같은 게임 텍스트와 메뉴·HUD의 그림 글자, 각종 연출 이펙트에 그려진 글자까지 한국어로 옮겼습니다.
 
-> 현재 버전: **1.0.3**
+> [![최신 릴리즈](https://img.shields.io/github/v/release/nameless-devuser/TouhouGensoWandererTODReloadedKoreanPatch?display_name=tag)](../../releases/latest)
 
 ---
 

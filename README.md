@@ -63,3 +63,4 @@ THGW_KR_Patch.exe restore "<게임 폴더>"
 <img src="06.png">
 <img src="07.png">
 <img src="08.png">
+<img src="09.png">

@@ -4,6 +4,9 @@
 
 대사·아이템·스펠카드 같은 게임 텍스트와 메뉴·HUD의 그림 글자, 각종 연출 이펙트에 그려진 글자까지 한국어로 옮겼습니다.
 
+>스팀 설정에서 언어를 일본어를 선택하면 한국어로 플레이 할 수 있습니다.
+>(언어 설정은 일본어(스팀에서 게임 마우스 오른쪽 클릭 -> 속성 -> 일반 -> 언어를 일본어 선택).)
+
 > [![최신 릴리즈](https://img.shields.io/github/v/release/nameless-devuser/TouhouGensoWandererTODReloadedKoreanPatch?display_name=tag)](../../releases/latest)
 
 ---

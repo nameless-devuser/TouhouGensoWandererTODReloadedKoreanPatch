@@ -22,7 +22,7 @@
 - 게임 원본 파일은 `data\default\*.cat.original`처럼 따로 보관됩니다. **지우지 마세요.**
 - 새 버전 패치를 다시 적용해도 보관된 원본에서 새로 만들기 때문에 안전합니다.
 
-[<img src="how_to_install.png">]
+<img src="how_to_install.png">
 
 ## 제거 방법
 
